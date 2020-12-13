@@ -16,11 +16,11 @@ _All services are available on a sliding scale according to income._
 
 _In person (Judy's Studio), Skype, Zoom_
 
-$75 - 1 hr 
+$85 - 1 hr 
 
 _At client's home_
 
-$90 - 1 hr 
+$100 - 1 hr 
 
 ---
 
@@ -30,11 +30,11 @@ $90 - 1 hr
 
 _In person (Judy's Studio), Skype, Zoom_
 
-$75 - 1 hr 
+$85 - 1 hr 
 
 _At client's home_
 
-$90 - 1 hr 
+$100 - 1 hr 
 
 ---
 
@@ -45,11 +45,11 @@ $90 - 1 hr
 
 _In person (Judy's Studio), Skype, Zoom_
 
-$75 - 1 hr 
+$85 - 1 hr 
 
 _At client's home_
 
-$90 - 1 hr 
+$100 - 1 hr 
 
 
 
@@ -59,7 +59,7 @@ $90 - 1 hr
 
 ![Nice picture to make you pay me ;-)](images/hypno.jpg)
 
-$75 - 1 hr 
+$85 - 1 hr 
 
 
 ---
@@ -69,7 +69,7 @@ $75 - 1 hr
 ![Photo by <a href="https://unsplash.com/@simonrae?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Simon Rae</a> on <a href="https://unsplash.com/s/photos/yoga?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>](images/tapping.jpg)
 
 
-$75 - 1 hr
+$85 - 1 hr
 
 
 ---
@@ -78,7 +78,7 @@ $75 - 1 hr
 
 ![Photo by <a href="https://unsplash.com/@lime517?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Joseph Greve</a> on <a href="https://unsplash.com/s/photos/death?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>](images/end-of-life.jpg)
 
-$75 - 1 hr 
+$85 - 1 hr 
 
 
 ---
